@@ -1,0 +1,6 @@
+requests
+schedule
+feedparser
+yfinance
+Flask
+gunicorn
